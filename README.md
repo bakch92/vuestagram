@@ -1,4 +1,4 @@
-# stargram
+# 뷰스타그램 프로젝트
 
 ## Project setup
 ```
